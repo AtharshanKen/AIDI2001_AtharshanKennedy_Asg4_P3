@@ -17,7 +17,7 @@
 
 ● I am powered by the model gemini,gemini-2.5-flash.
 
-❯ /grill-me                                                                     
+❯ /grill-me ----------------------------------------------------------------------------                                                                    
 
 ● Skill(grill-me)
   ⎿  Successfully loaded skill
@@ -160,7 +160,7 @@ removal of task.
 ● Yes, this completes the design review for your to-do list application. We've
   thoroughly covered the primary goal, essential features, data capture,
   storage, and UI interactions.
-❯ /write-a-prd                                                                  
+❯ /write-a-prd ----------------------------------------------------------------------------                                                                 
 
 ● Skill(write-a-prd)
   ⎿  Successfully loaded skill
@@ -475,7 +475,7 @@ Users problem relates to:
   gh issue create --repo "AtharshanKen/AIDI2001_AtharshanKennedy_Asg4_P3"
   --title "PRD: Simple Streamlit To-Do Application" --body-file PRD_ToDo_App.md
 
-❯ /prd-to-issues                                                                
+❯ /prd-to-issues ----------------------------------------------------------------------------                                                                
 
 ● What is the GitHub issue number (or URL) for the PRD?
 
@@ -782,7 +782,7 @@ issues/5#issue-4174856285
   PRD have been successfully broken down into individual GitHub issues with
   their respective dependencies and acceptance criteria.
 
-❯ /tdd                                                                          
+❯ /tdd ----------------------------------------------------------------------------                                                                         
 
 ● Okay, I'm ready to start the TDD workflow.
 
@@ -1347,7 +1347,7 @@ Just test if the user enters in text to both.
 
   All expected behaviors have been implemented and are covered by passing tests.
 
-❯ /improve-codebase-architecture                                                
+❯ /improve-codebase-architecture ----------------------------------------------------------------------------                                                
 
 ● Explore(Explore codebase for architectural improvements)
   ⎿  Done (3 tool uses · 22.4k tokens · 41s)
